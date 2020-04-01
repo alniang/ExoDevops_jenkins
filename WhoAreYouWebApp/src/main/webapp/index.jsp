@@ -9,7 +9,7 @@
 <body>
 
  <% 
-  String name = "Camille";
+  String name = "Camile";
   String repons =fr.isika.andre.WhoIam.whoAreYou(name);
   out.println("<h2>"+repons+ "Youhou Youhou" + "<h2>");
   %>
