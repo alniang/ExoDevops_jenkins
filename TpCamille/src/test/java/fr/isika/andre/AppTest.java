@@ -1,7 +1,7 @@
 package fr.isika.andre;
 import static org.junit.Assert.*;
 import org.junit.Test;
-public class test {
+public class AppTest {
 	WhoIam whoiam = new WhoIam();
 	@Test
 	//renvoie Bonjour je suis Camille
